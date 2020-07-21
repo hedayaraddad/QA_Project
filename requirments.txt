@@ -1,0 +1,8 @@
+WebTest==2.0.35
+WebOb==1.8.6
+jsonpointer==2.0
+jsonpatch==1.26
+beautifulsoup4==4.9.1
+robotframework-httplibrary==0.4.2
+
+
